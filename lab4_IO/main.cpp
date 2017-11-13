@@ -11,6 +11,7 @@
 #include "simulator.h"
 using namespace std;
 
+// Main function for running the whole program
 int main(int argc, char ** argv) {
     int opt_ch;
     char algo;
